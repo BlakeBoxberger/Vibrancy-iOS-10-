@@ -2,7 +2,7 @@ Package: com.neinzedd9.vibrancy
 Name: Vibrancy (iOS 10)
 Depends: mobilesubstrate
 Pre-Depends: firmware (>= 10.0)
-Version: 0.0.1
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Make the lockscreen clock vibrant. No options to configure.
 Maintainer: NeinZedd9
