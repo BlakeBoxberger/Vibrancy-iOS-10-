@@ -1,2 +1,2 @@
-# Vibrancy-iOS-10-
+# Vibrancy (iOS 10)
 Make the lockscreen clock vibrant.
